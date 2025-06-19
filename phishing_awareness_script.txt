@@ -1,0 +1,27 @@
+Title Slide: Phishing Awareness Training - By Sai Sri Charan Yerramsetty
+
+Slide 1: What is Phishing?
+- Phishing is a social engineering attack that tricks users into revealing sensitive information.
+
+Slide 2: How to Spot a Phishing Email
+- Look for spelling errors
+- Suspicious links (hover before clicking)
+- Fake sender addresses
+
+Slide 3: Common Tactics
+- Urgency
+- Free gifts
+- Fake login pages
+
+Slide 4: Tips to Stay Safe
+- Don't click on unknown links
+- Enable 2FA
+- Use updated antivirus
+
+Slide 5: Real Example
+- Show screenshot of a phishing mail
+
+Slide 6: Quiz
+- Include 3 simple questions (e.g., “Is this link safe?”)
+
+End Slide: Thank you + LinkedIn + GitHub
